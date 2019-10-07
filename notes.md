@@ -24,3 +24,11 @@ Three step commit process
     git add filename.rb
 * Commit the staged files
     git commit - m "Descriptive commit message to myself and others"
+
+-------------------------
+cloning makes it only once
+--------------------------
+* push - it pushes it onto git hub 
+
+* pull - pulls it from one place to another
+
